@@ -15,7 +15,6 @@ pgn_files = listdir(games_directory)
 craziest_games = []
 boring_games = []
 
-# load pickled snapshots of games if possible
 try:
     print("attempting to load snapshot files...")
 
