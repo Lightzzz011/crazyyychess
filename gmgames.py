@@ -8,7 +8,7 @@ games = csv.reader(open("chesscom2022/gm_games_2022.csv"))
 
 craziest_game = ""
 craziest_game_score = 0
-
+ 
 boring_game = ""
 boring_game_score = 2 ** 32
 
