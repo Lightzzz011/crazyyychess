@@ -13,7 +13,7 @@ PIECE_VALUES = {
     chess.KING: 10
 }
 
-TYPICAL_PIECE_COUNTS = {
+TYPICAL_PIECE_COUNTS = { 
     chess.PAWN: 8,
     chess.KNIGHT: 2,
     chess.BISHOP: 2,
