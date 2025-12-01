@@ -4,7 +4,7 @@ from io import StringIO
 
 import chess.pgn
 
-PIECE_VALUES = {
+PIECE_VALUES = { 
     chess.PAWN: 1,
     chess.KNIGHT: 3,
     chess.BISHOP: 3,
